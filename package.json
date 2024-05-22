@@ -1,0 +1,12 @@
+{
+  "name": "ion-react-scrollbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ion-react-scroll", "ion-react-scrollbar", "ionic", "scrollbar", "ionic-react", "ionic-scrollbar-style", "ionic-react-scrollbar"],
+  "author": "First Penny",
+  "license": "ISC"
+}
